@@ -6,6 +6,6 @@
     "grunt-cucumber": "~0.2.1",
     "grunt-phantom": "^0.2.1",
     "phantomjs": "^1.9.16",
-    "wd": "~0.2.6",
+    "wd": "~0.2.6"
   }
 }
